@@ -15,9 +15,11 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+.docker/mysql/data/
 /auth.json
 /.fleet
 /.idea
 /.nova
 /.vscode
 /.zed
+
